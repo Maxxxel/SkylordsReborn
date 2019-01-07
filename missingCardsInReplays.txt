@@ -4,8 +4,8 @@ Abyssal Warder:Frost
 Abyssal Warder:Fire
 Amazon:Frost
 Amazon:Nature
-Amii Monument
-Amii Phantom
+Amii Monument:nil
+Amii Phantom:nil
 Architects Call:Frost
 Architects Call:Shadow
 Artillery:Fire
@@ -20,16 +20,16 @@ Batariel:Fire
 Batariel:Shadow
 Befallens Curse:Fire
 Befallens Curse:Shadow
-Brannoc
+Brannoc:nil
 Burrow Ritual:Fire
 Burrow Ritual:Nature
 Cluster Explosion:Fire
 Cluster Explosion:Shadow
-Construct (promo)
+Construct (promo):nil
 Core Dredge:Frost
 Curse Orb:Frost
-Curse Well
-Dark Crystal
+Curse Well:nil
+Dark Crystal:nil
 Deathglider:Frost
 Deathglider:Nature
 Deep One:Nature
@@ -42,22 +42,22 @@ Dryad:Frost
 Dryad:Nature
 Dying Breed:Nature
 Dying Breed:Shadow
-Earth Crystal
+Earth Crystal:nil
 Earthen Gift:Fire
 Earthen Gift:Shadow
 Earthkeeper:Frost
 Earthkeeper:Fire
-Easter Egg (promo)
+Easter Egg (promo):nil
 Eliminator:Frost
 Eliminator:Fire
 Ethereal Storm:Frost
 Ethereal Storm:Fire
 Evocators Woe:Nature
 Evocators Woe:Shadow
-Fallen Skyelf (promo)
+Fallen Skyelf (promo):nil
 Firesworn:Frost
 Firesworn:Fire
-Flame Crystal
+Flame Crystal:nil
 Fleshbender:Fire
 Fleshbender:Shadow
 Forest Elder:Nature
@@ -84,7 +84,7 @@ Hatecaster:Nature
 Hatecaster:Shadow
 Ice Age:Frost
 Ice Age:Nature
-Ice Crystal
+Ice Crystal:nil
 Icefang Raptor:Frost
 Icefang Raptor:Fire
 Incubator:Fire
@@ -100,7 +100,7 @@ Knight of Chaos:Frost
 Knight of Chaos:Shadow
 Kobold Inc.:Frost
 Kobold Inc.:Shadow
-Lord Cyrian (promo)
+Lord Cyrian (promo):nil
 Lost Banestone:Frost
 Lost Banestone:Nature
 Lost Converter:Frost
@@ -116,7 +116,6 @@ Lost Evocation:Fire
 Lost Grigori:Fire
 Lost Grigori:Shadow
 Lost Horror:Fire
-Lost Horror:Nature
 Lost Launcher:Frost
 Lost Launcher:Fire
 Lost Priest:Fire
@@ -133,8 +132,8 @@ Lost Wanderer:Frost
 Lost Wanderer:Nature
 Lost Warlord:Frost
 Lost Warlord:Fire
-Mo (promo)
-Moon
+Mo (promo):nil
+Moon:nil
 Mountain Rowdy:Frost
 Mountain Rowdy:Shadow
 Mumbo Jumbo:Fire
@@ -157,11 +156,10 @@ Nox Carrier:Fire
 Nox Carrier:Shadow
 Oracle Mask:Fire
 Oracle Mask:Nature
-Protectors Seal (Lost Souls)
-Protectors Seal (Twilight)
+Protectors Seal (Twilight):nil
 Pyromaniac:Frost
 Pyromaniac:Fire
-QueekQueek
+QueekQueek:nil
 Rageflame:Frost
 Rageflame:Fire
 Razorshard:Fire
@@ -170,8 +168,8 @@ Revenants Blessing:Fire
 Revenants Blessing:Nature
 Rioters Retreat:Frost
 Rioters Retreat:Nature
-Rogan Kayle (promo)
-Santa Claus (promo)
+Rogan Kayle (promo):nil
+Santa Claus (promo):nil
 Satanael:Fire
 Satanael:Shadow
 Skycatcher:Frost
@@ -192,7 +190,7 @@ Sunken Temple:Nature
 Sunken Temple:Shadow
 Sylvan Gate:Frost
 Sylvan Gate:Fire
-The Incredible Mo
+The Incredible Mo:nil
 Thunder Wagon:Fire
 Thunder Wagon:Shadow
 Treefiend:Nature
@@ -217,7 +215,7 @@ Twilight Warfare:Fire
 Twilight Warfare:Shadow
 Vileblood:Fire
 Vileblood:Nature
-Viridya (promo)
+Viridya (promo):nil
 Volcano:Fire
 Volcano:Nature
 Wardens Sigil:Frost
