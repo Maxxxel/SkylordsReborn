@@ -15,7 +15,7 @@ Random PvE -> Multiple Maps Possible
 Ascension
 Bad Harvest
 Behind Enemy Lines -> ".\\bf1\\map\\PVE\\11104_PvE_01p_BehindEnemyLines.map"
-Blight
+#####Blight -> ".\bf1\map\PVE\12300_PvE_04p_Blight2.map"
 Convoy -> ".\\bf1\\map\\PVE\\12200_PvE_02p_Convoy.map"
 Crusade -> ".\\bf1\\map\\PVE\\11200_PvE_02p_Crusade.map"
 Defending Hope -> ".\\bf1\\map\\PVE\\11106_PvE_01p_Defending_Hope.map"
