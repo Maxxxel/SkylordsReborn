@@ -8,21 +8,28 @@ Wazhai -> ".\\bf1\\map\\PVP\\11607_PvP_02p_Wazhai.map"
 Yrmia -> ".\\bf1\\map\\PVP\\11611_PvP_02p_Yrmia.map"
 
 2 vs 2 -> Multiple Maps Possible
+Danduil -> ".\\bf1\\map\\PVP\\11707_PvP_04p_Danduil.map"
+Fyre -> ".\\bf1\\map\\PVP\\11706_PvP_04p_Fyre.map"
+Haladur -> ".\\bf1\\map\\PVP\\11603_PvP_02p_Haladur.map"
+Koshan -> ".\\bf1\\map\\PVP\\12701_PvP_04p_Koshan.map"
+Nadai -> ".\\bf1\\map\\PVP\\11711_PvP_04p_Nadai.map"
 Tairayver2 -> ".\\bf1\\map\\UG\\tairayver2.map"
 Turan -> ".\\bf1\\map\\PVP\\11705_PvP_04p_Turan.map"
+Yshia -> ".\\bf1\\map\\PVP\\11710_PvP_04p_Yshia.map"
+Zahadune -> ".\\bf1\\map\\PVP\\12702_PvP_04p_Zahadune.map"
 +++++++
 Random PvE -> Multiple Maps Possible
 Ascension
-Bad Harvest
+Bad Harvest -> ".\\bf1\\map\\PVE\\11300_PvE_04p_BadHarvest.map"
 Behind Enemy Lines -> ".\\bf1\\map\\PVE\\11104_PvE_01p_BehindEnemyLines.map"
-#####Blight -> ".\bf1\map\PVE\12300_PvE_04p_Blight2.map"
+Blight -> ".\bf1\map\PVE\12300_PvE_04p_Blight2.map"
 Convoy -> ".\\bf1\\map\\PVE\\12200_PvE_02p_Convoy.map"
 Crusade -> ".\\bf1\\map\\PVE\\11200_PvE_02p_Crusade.map"
 Defending Hope -> ".\\bf1\\map\\PVE\\11106_PvE_01p_Defending_Hope.map"
 Empire
 Encounters With Twilight -> ".\\bf1\\map\\PVE\\11105_PvE_01p_EncountersWithTwilight.map"
 Introduction
-King of the Giants
+King of the Giants -> ".\\bf1\\map\\PVE\\11303_PvE_04p_KingOfTheGiants.map"
 Mo -> ".\\bf1\\map\\PVE\\12101_PvE_01p_Mo.map"
 Nightmare Shard -> ".\\bf1\\map\\PVE\\11203_PvE_02p_NightmareShard.map"
 Nightmare's End -> ".\\bf1\\map\\PVE\\11204_PvE_02p_NightmareEnd.map"
@@ -31,11 +38,11 @@ Oracle
 Passage to Darkness
 Raven's End
 Siege of Hope -> ".\\bf1\\map\\PVE\\11100_PvE_01p_SiegeOfHope.map"
-Slave Master
+Slave Master -> ".\\bf1\\map\\PVE\\12201_PvE_02p_SlaveMaster.map"
 Sunbridge -> ".\\bf1\\map\\PVE\\11201_PvE_02p_Sunbridge.map"
 The Dwarven Riddle
 The Guns of Lyr -> ".\\bf1\\map\\PVE\\11302_PvE_04p_EnemyAvalanche.map"
 The Insane God
 The Soultree
 The Treasure Fleet
-Titans
+Titans -> ".\\bf1\\map\\PVE\\11304_PvE_04p_Titans.map"
