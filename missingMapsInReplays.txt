@@ -6,8 +6,10 @@ Bad Harvest
 Behind Enemy Lines
 Blight
 Convoy
+Crusade -> ".\\bf1\\map\\PVE\\11200_PvE_02p_Crusade.map"
 Defending Hope
 Empire
+Encounters With Twilight -> ".\\bf1\\map\\PVE\\11105_PvE_01p_EncountersWithTwilight.map"
 Introduction
 King of the Giants
 Mo
@@ -21,7 +23,7 @@ Siege of Hope
 Slave Master
 Sunbridge
 The Dwarven Riddle
-The Guns of Lyr
+The Guns of Lyr -> ".\\bf1\\map\\PVE\\11302_PvE_04p_EnemyAvalanche.map"
 The Insane God
 The Soultree
 The Treasure Fleet
