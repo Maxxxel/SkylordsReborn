@@ -1,27 +1,38 @@
 1 vs 1 -> Multiple Maps Possible
+Aztec -> ".\\bf1\\map\\UG\\aztec.map"
+Elyon -> ".\\bf1\\map\\PVP\\11608_PvP_02p_Elyon.map"
+Layesh -> ".\\bf1\\map\\PVP\\11609_PvP_02p_Lajesh.map"
+Simai -> ".\\bf1\\map\\PVP\\11605_PvP_02p_Simai.map"
+Uro -> ".\\bf1\\map\\PVP\\11610_PvP_02p_Uro.map"
+Wazhai -> ".\\bf1\\map\\PVP\\11607_PvP_02p_Wazhai.map"
+Yrmia -> ".\\bf1\\map\\PVP\\11611_PvP_02p_Yrmia.map"
+
 2 vs 2 -> Multiple Maps Possible
+Tairayver2 -> ".\\bf1\\map\\UG\\tairayver2.map"
+Turan -> ".\\bf1\\map\\PVP\\11705_PvP_04p_Turan.map"
++++++++
 Random PvE -> Multiple Maps Possible
 Ascension
 Bad Harvest
-Behind Enemy Lines
+Behind Enemy Lines -> ".\\bf1\\map\\PVE\\11104_PvE_01p_BehindEnemyLines.map"
 Blight
-Convoy
+Convoy -> ".\\bf1\\map\\PVE\\12200_PvE_02p_Convoy.map"
 Crusade -> ".\\bf1\\map\\PVE\\11200_PvE_02p_Crusade.map"
-Defending Hope
+Defending Hope -> ".\\bf1\\map\\PVE\\11106_PvE_01p_Defending_Hope.map"
 Empire
 Encounters With Twilight -> ".\\bf1\\map\\PVE\\11105_PvE_01p_EncountersWithTwilight.map"
 Introduction
 King of the Giants
-Mo
-Nightmare Shard
-Nightmare's End
-Ocean
+Mo -> ".\\bf1\\map\\PVE\\12101_PvE_01p_Mo.map"
+Nightmare Shard -> ".\\bf1\\map\\PVE\\11203_PvE_02p_NightmareShard.map"
+Nightmare's End -> ".\\bf1\\map\\PVE\\11204_PvE_02p_NightmareEnd.map"
+Ocean -> ".\\bf1\\map\\PVE\\12102_PvE_01p_Ocean.map"
 Oracle
 Passage to Darkness
 Raven's End
-Siege of Hope
+Siege of Hope -> ".\\bf1\\map\\PVE\\11100_PvE_01p_SiegeOfHope.map"
 Slave Master
-Sunbridge
+Sunbridge -> ".\\bf1\\map\\PVE\\11201_PvE_02p_Sunbridge.map"
 The Dwarven Riddle
 The Guns of Lyr -> ".\\bf1\\map\\PVE\\11302_PvE_04p_EnemyAvalanche.map"
 The Insane God
