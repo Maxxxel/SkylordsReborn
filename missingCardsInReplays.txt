@@ -1,5 +1,3 @@
-Abomination:Frost
-Abomination:Shadow
 Abyssal Warder:Frost
 Abyssal Warder:Fire
 Amazon:Frost
@@ -22,8 +20,6 @@ Befallens Curse:Shadow
 Brannoc:nil
 Burrow Ritual:Fire
 Burrow Ritual:Nature
-Cluster Explosion:Fire
-Cluster Explosion:Shadow
 Construct (promo):nil
 Core Dredge:Frost
 Curse Orb:Frost
@@ -190,18 +186,14 @@ Twilight Bombard:Fire
 Twilight Brute:Fire
 Twilight Brute:Nature
 Twilight Creeper:Fire
-Twilight Creeper:Shadow
 Twilight Curse:Fire
 Twilight Curse:Shadow
 Twilight Hag:Fire
 Twilight Hag:Nature
 Twilight Minions:Fire
 Twilight Minions:Nature
-Twilight Pestilence:Frost
 Twilight Pestilence:Nature
 Twilight Warfare:Fire
-Twilight Warfare:Shadow
-Vileblood:Fire
 Vileblood:Nature
 Viridya (promo):nil
 Volcano:Fire
