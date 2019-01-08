@@ -16,7 +16,6 @@ Bandit Sorceress:Frost
 Bandit Sorceress:Fire
 Bandit Spearmen:Frost
 Bandit Spearmen:Fire
-Batariel:Fire
 Batariel:Shadow
 Befallens Curse:Fire
 Befallens Curse:Shadow
@@ -38,7 +37,6 @@ Deepfang:Fire
 Deepfang:Nature
 Deepgorge:Frost
 Deepgorge:Fire
-Dryad:Frost
 Dryad:Nature
 Dying Breed:Nature
 Dying Breed:Shadow
@@ -51,20 +49,17 @@ Easter Egg (promo):nil
 Eliminator:Frost
 Eliminator:Fire
 Ethereal Storm:Frost
-Ethereal Storm:Fire
 Evocators Woe:Nature
 Evocators Woe:Shadow
 Fallen Skyelf (promo):nil
 Firesworn:Frost
 Firesworn:Fire
-Flame Crystal:nil
 Fleshbender:Fire
 Fleshbender:Shadow
 Forest Elder:Nature
 Forest Elder:Shadow
 Forests Vim:Nature
 Forests Vim:Shadow
-Frenetic Assault:Nature
 Frenetic Assault:Shadow
 Girl Power:Frost
 Girl Power:Nature
@@ -109,9 +104,7 @@ Lost Dancer:Fire
 Lost Dancer:Shadow
 Lost Disruptor:Nature
 Lost Disruptor:Shadow
-Lost Dragon:Nature
 Lost Dragon:Shadow
-Lost Evocation:Frost
 Lost Evocation:Fire
 Lost Grigori:Fire
 Lost Grigori:Shadow
@@ -120,17 +113,14 @@ Lost Launcher:Frost
 Lost Launcher:Fire
 Lost Priest:Fire
 Lost Priest:Shadow
-Lost Reaver:Fire
 Lost Reaver:Shadow
 Lost Shade:Frost
 Lost Shade:Shadow
-Lost Spirit Ship:Fire
 Lost Spirit Ship:Nature
 Lost Vigil:Nature
 Lost Vigil:Shadow
 Lost Wanderer:Frost
 Lost Wanderer:Nature
-Lost Warlord:Frost
 Lost Warlord:Fire
 Mo (promo):nil
 Moon:nil
@@ -143,7 +133,6 @@ Mutating Maniac:Nature
 Necroblaster:Nature
 Necroblaster:Shadow
 Nether Warp:Frost
-Nether Warp:Nature
 Nightshade Plant:Nature
 Nightshade Plant:Shadow
 Northern Keep:Frost
@@ -177,7 +166,6 @@ Skycatcher:Nature
 Slaver:Fire
 Slaver:Shadow
 Soul Splicer:Fire
-Soul Splicer:Nature
 Soulhunter:Frost
 Soulhunter:Shadow
 Stone Shell:Nature
