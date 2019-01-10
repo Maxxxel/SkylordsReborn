@@ -9,11 +9,8 @@ Architects Call:Shadow
 Artillery:Fire
 Artillery:Shadow
 Bandit Lancer:Nature
-Bandit Lancer:Shadow
 Bandit Sorceress:Frost
 Bandit Sorceress:Fire
-Bandit Spearmen:Frost
-Bandit Spearmen:Fire
 Batariel:Shadow
 Befallens Curse:Fire
 Befallens Curse:Shadow
@@ -25,7 +22,6 @@ Core Dredge:Frost
 Curse Orb:Frost
 Curse Well:nil
 Dark Crystal:nil
-Deathglider:Frost
 Deathglider:Nature
 Deep One:Nature
 Deep One:Shadow
@@ -50,7 +46,6 @@ Evocators Woe:Shadow
 Fallen Skyelf (promo):nil
 Firesworn:Frost
 Firesworn:Fire
-Fleshbender:Fire
 Fleshbender:Shadow
 Forest Elder:Nature
 Forest Elder:Shadow
@@ -74,16 +69,13 @@ Grinder (promo):Shadow
 Hatecaster:Nature
 Hatecaster:Shadow
 Ice Age:Frost
-Ice Age:Nature
 Ice Crystal:nil
 Icefang Raptor:Frost
 Icefang Raptor:Fire
 Incubator:Fire
-Incubator:Shadow
 Infected Tower:Frost
 Infected Tower:Fire
 Infernal Chain:Frost
-Infernal Chain:Nature
 Ironclad:Frost
 Ironclad:Fire
 Jorne:Frost
@@ -100,7 +92,6 @@ Lost Dancer:Fire
 Lost Dancer:Shadow
 Lost Disruptor:Nature
 Lost Disruptor:Shadow
-Lost Dragon:Shadow
 Lost Evocation:Fire
 Lost Grigori:Fire
 Lost Grigori:Shadow
@@ -109,7 +100,6 @@ Lost Launcher:Frost
 Lost Launcher:Fire
 Lost Priest:Fire
 Lost Priest:Shadow
-Lost Reaver:Shadow
 Lost Shade:Frost
 Lost Shade:Shadow
 Lost Spirit Ship:Nature
@@ -122,18 +112,14 @@ Mo (promo):nil
 Moon:nil
 Mountain Rowdy:Frost
 Mountain Rowdy:Shadow
-Mumbo Jumbo:Fire
 Mumbo Jumbo:Shadow
 Mutating Maniac:Fire
 Mutating Maniac:Nature
-Necroblaster:Nature
 Necroblaster:Shadow
 Nether Warp:Frost
 Nightshade Plant:Nature
 Nightshade Plant:Shadow
-Northern Keep:Frost
 Northern Keep:Fire
-Northland Drake:Frost
 Northland Drake:Fire
 Northstar:Frost
 Northstar:Nature
@@ -142,8 +128,8 @@ Nox Carrier:Shadow
 Oracle Mask:Fire
 Oracle Mask:Nature
 Protectors Seal (Twilight):nil
-Pyromaniac:Frost
 Pyromaniac:Fire
+Pyromaniac:Frost
 QueekQueek:nil
 Rageflame:Frost
 Rageflame:Fire
@@ -159,13 +145,10 @@ Satanael:Fire
 Satanael:Shadow
 Skycatcher:Frost
 Skycatcher:Nature
-Slaver:Fire
 Slaver:Shadow
-Soul Splicer:Fire
 Soulhunter:Frost
 Soulhunter:Shadow
 Stone Shell:Nature
-Stone Shell:Shadow
 Stranglehold:Nature
 Stranglehold:Shadow
 Sun Reaver:Fire
@@ -180,18 +163,14 @@ Thunder Wagon:Shadow
 Treefiend:Nature
 Treefiend:Shadow
 Treespirit:Nature
-Treespirit:Shadow
-Twilight Bombard:Frost
 Twilight Bombard:Fire
 Twilight Brute:Fire
 Twilight Brute:Nature
 Twilight Creeper:Fire
 Twilight Curse:Fire
 Twilight Curse:Shadow
-Twilight Hag:Fire
 Twilight Hag:Nature
 Twilight Minions:Fire
-Twilight Minions:Nature
 Twilight Pestilence:Nature
 Twilight Warfare:Fire
 Vileblood:Nature
@@ -208,5 +187,3 @@ Willzapper:Fire
 Willzapper:Shadow
 Wintertide:Frost
 Wintertide:Fire
-Witchclaws:Fire
-Witchclaws:Shadow
