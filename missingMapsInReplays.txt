@@ -6,10 +6,12 @@ Simai -> ".\\bf1\\map\\PVP\\11605_PvP_02p_Simai.map"
 Uro -> ".\\bf1\\map\\PVP\\11610_PvP_02p_Uro.map"
 Wazhai -> ".\\bf1\\map\\PVP\\11607_PvP_02p_Wazhai.map"
 Yrmia -> ".\\bf1\\map\\PVP\\11611_PvP_02p_Yrmia.map"
+GeneratedSparringGround1V1
 
 2 vs 2 -> Multiple Maps Possible
 Danduil -> ".\\bf1\\map\\PVP\\11707_PvP_04p_Danduil.map"
 Fyre -> ".\\bf1\\map\\PVP\\11706_PvP_04p_Fyre.map"
+Gorgash
 Haladur -> ".\\bf1\\map\\PVP\\11603_PvP_02p_Haladur.map"
 Koshan -> ".\\bf1\\map\\PVP\\12701_PvP_04p_Koshan.map"
 Nadai -> ".\\bf1\\map\\PVP\\11711_PvP_04p_Nadai.map"
@@ -17,6 +19,7 @@ Tairayver2 -> ".\\bf1\\map\\UG\\tairayver2.map"
 Turan -> ".\\bf1\\map\\PVP\\11705_PvP_04p_Turan.map"
 Yshia -> ".\\bf1\\map\\PVP\\11710_PvP_04p_Yshia.map"
 Zahadune -> ".\\bf1\\map\\PVP\\12702_PvP_04p_Zahadune.map"
+GeneratedSparringGround2V2
 +++++++
 Random PvE -> Multiple Maps Possible
 Ascension
