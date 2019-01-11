@@ -4,32 +4,22 @@ Amazon:Frost
 Amazon:Nature
 Architects Call:Frost
 Architects Call:Shadow
-Artillery:Fire
-Batariel:Shadow
 Befallens Curse:Fire
 Befallens Curse:Shadow
-Core Dredge:Frost
-Deathglider:Nature
 Deep One:Nature
 Deep One:Shadow
 Deepfang:Fire
 Deepfang:Nature
-Deepgorge:Frost
 Dying Breed:Nature
 Dying Breed:Shadow
 Earthen Gift:Fire
 Earthen Gift:Shadow
-Eliminator:Frost
 Evocators Woe:Nature
 Evocators Woe:Shadow
-Firesworn:Fire
 Forest Elder:Nature
 Forest Elder:Shadow
 Forests Vim:Nature
 Forests Vim:Shadow
-Frenetic Assault:Shadow
-Gravity Surge:Shadow
-Green Peace:Frost
 Grim Bahir:Fire
 Grim Bahir:Nature
 Grinder:Fire
@@ -38,22 +28,14 @@ Ice Age:Frost
 Ice Age:Nature
 Icefang Raptor:Frost
 Icefang Raptor:Fire
-Infected Tower:Fire
 Ironclad:Frost
 Ironclad:Fire
-Lost Converter:Frost
-Lost Dancer:Fire
-Lost Grigori:Fire
 Lost Priest:Fire
 Lost Priest:Shadow
 Lost Shade:Frost
 Lost Shade:Shadow
-Lost Warlord:Fire
-Mutating Maniac:Fire
-Nether Warp:Frost
 Nightshade Plant:Nature
 Nightshade Plant:Shadow
-Northstar:Frost
 Nox Carrier:Fire
 Nox Carrier:Shadow
 Oracle Mask:Fire
@@ -62,25 +44,13 @@ Rageflame:Frost
 Rageflame:Fire
 Razorshard:Fire
 Razorshard:Nature
-Revenants Blessing:Nature
 Satanael:Fire
 Satanael:Shadow
 Skycatcher:Frost
 Skycatcher:Nature
-Soulhunter:Frost
-Sylvan Gate:Fire
 Thunder Wagon:Fire
 Thunder Wagon:Shadow
-Treefiend:Nature
-Treespirit:Nature
-Twilight Brute:Fire
-Twilight Creeper:Fire
-Twilight Curse:Fire
-Twilight Pestilence:Nature
-Twilight Warfare:Fire
-Vileblood:Nature
 Volcano:Fire
 Volcano:Nature
-Willzapper:Fire
 Wintertide:Frost
 Wintertide:Fire
