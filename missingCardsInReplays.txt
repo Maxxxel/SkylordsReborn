@@ -68,7 +68,6 @@ Satanael:Shadow
 Skycatcher:Frost
 Skycatcher:Nature
 Soulhunter:Frost
-Soulhunter:Shadow
 Sylvan Gate:Fire
 Thunder Wagon:Fire
 Thunder Wagon:Shadow
