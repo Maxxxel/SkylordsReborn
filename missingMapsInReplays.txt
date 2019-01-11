@@ -37,15 +37,15 @@ Mo -> ".\\bf1\\map\\PVE\\12101_PvE_01p_Mo.map"
 Nightmare Shard -> ".\\bf1\\map\\PVE\\11203_PvE_02p_NightmareShard.map"
 Nightmare's End -> ".\\bf1\\map\\PVE\\11204_PvE_02p_NightmareEnd.map"
 Ocean -> ".\\bf1\\map\\PVE\\12102_PvE_01p_Ocean.map"
-Oracle
+Oracle -> ".\\bf1\\map\\PVE\\12103_PvE_01p_Temple.map"
 Passage to Darkness
-Raven's End
+Raven's End -> ".\\bf1\\map\\PVE\\12301_PvE_04p_Endfight.map"
 Siege of Hope -> ".\\bf1\\map\\PVE\\11100_PvE_01p_SiegeOfHope.map"
 Slave Master -> ".\\bf1\\map\\PVE\\12201_PvE_02p_SlaveMaster.map"
 Sunbridge -> ".\\bf1\\map\\PVE\\11201_PvE_02p_Sunbridge.map"
 The Dwarven Riddle
 The Guns of Lyr -> ".\\bf1\\map\\PVE\\11302_PvE_04p_EnemyAvalanche.map"
-The Insane God
-The Soultree
-The Treasure Fleet
+The Insane God -> ".\\bf1\\map\\PVE\\11202_PvE_02p_MadGod.map"
+The Soultree -> ".\\bf1\\map\\PVE\\11103_PvE_01p_ViridyasMadness.map"
+The Treasure Fleet -> ".\\bf1\\map\\PVE\\11101_PvE_01p_TugOfWar.map"
 Titans -> ".\\bf1\\map\\PVE\\11304_PvE_04p_Titans.map"
