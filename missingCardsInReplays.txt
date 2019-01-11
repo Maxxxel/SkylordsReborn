@@ -2,188 +2,86 @@ Abyssal Warder:Frost
 Abyssal Warder:Fire
 Amazon:Frost
 Amazon:Nature
-Amii Monument:nil
-Amii Phantom:nil
 Architects Call:Frost
 Architects Call:Shadow
 Artillery:Fire
-Artillery:Shadow
-Bandit Lancer:Nature
-Bandit Sorceress:Frost
-Bandit Sorceress:Fire
 Batariel:Shadow
 Befallens Curse:Fire
 Befallens Curse:Shadow
-Brannoc:nil
-Burrow Ritual:Fire
-Burrow Ritual:Nature
-Construct (promo):nil
 Core Dredge:Frost
-Curse Orb:Frost
-Curse Well:nil
-Dark Crystal:nil
 Deathglider:Nature
 Deep One:Nature
 Deep One:Shadow
 Deepfang:Fire
 Deepfang:Nature
 Deepgorge:Frost
-Deepgorge:Fire
-Dryad:Nature
 Dying Breed:Nature
 Dying Breed:Shadow
-Earth Crystal:nil
 Earthen Gift:Fire
 Earthen Gift:Shadow
-Earthkeeper:Frost
-Earthkeeper:Fire
-Easter Egg (promo):nil
 Eliminator:Frost
-Eliminator:Fire
-Ethereal Storm:Frost
 Evocators Woe:Nature
 Evocators Woe:Shadow
-Fallen Skyelf (promo):nil
-Firesworn:Frost
 Firesworn:Fire
-Fleshbender:Shadow
 Forest Elder:Nature
 Forest Elder:Shadow
 Forests Vim:Nature
 Forests Vim:Shadow
 Frenetic Assault:Shadow
-Girl Power:Frost
-Girl Power:Nature
-Glaciation:Frost
-Glaciation:Fire
-Global Warming:Frost
-Global Warming:Fire
 Gravity Surge:Shadow
 Green Peace:Frost
-Green Peace:Fire
 Grim Bahir:Fire
 Grim Bahir:Nature
 Grinder:Fire
 Grinder:Shadow
-Grinder (promo):Shadow
-Hatecaster:Nature
-Hatecaster:Shadow
 Ice Age:Frost
-Ice Crystal:nil
+Ice Age:Nature
 Icefang Raptor:Frost
 Icefang Raptor:Fire
-Incubator:Fire
-Infected Tower:Frost
 Infected Tower:Fire
-Infernal Chain:Frost
 Ironclad:Frost
 Ironclad:Fire
-Jorne:Frost
-Knight of Chaos:Frost
-Knight of Chaos:Shadow
-Kobold Inc.:Frost
-Kobold Inc.:Shadow
-Lord Cyrian (promo):nil
-Lost Banestone:Frost
-Lost Banestone:Nature
 Lost Converter:Frost
-Lost Converter:Shadow
 Lost Dancer:Fire
-Lost Dancer:Shadow
-Lost Disruptor:Nature
-Lost Disruptor:Shadow
-Lost Evocation:Fire
 Lost Grigori:Fire
-Lost Grigori:Shadow
-Lost Horror:Fire
-Lost Launcher:Frost
-Lost Launcher:Fire
 Lost Priest:Fire
 Lost Priest:Shadow
 Lost Shade:Frost
 Lost Shade:Shadow
-Lost Spirit Ship:Nature
-Lost Vigil:Nature
-Lost Vigil:Shadow
-Lost Wanderer:Frost
-Lost Wanderer:Nature
 Lost Warlord:Fire
-Mo (promo):nil
-Moon:nil
-Mountain Rowdy:Frost
-Mountain Rowdy:Shadow
-Mumbo Jumbo:Shadow
 Mutating Maniac:Fire
-Mutating Maniac:Nature
-Necroblaster:Shadow
 Nether Warp:Frost
 Nightshade Plant:Nature
 Nightshade Plant:Shadow
-Northern Keep:Fire
-Northland Drake:Fire
 Northstar:Frost
-Northstar:Nature
 Nox Carrier:Fire
 Nox Carrier:Shadow
 Oracle Mask:Fire
 Oracle Mask:Nature
-Protectors Seal (Twilight):nil
-Pyromaniac:Fire
-Pyromaniac:Frost
-QueekQueek:nil
 Rageflame:Frost
 Rageflame:Fire
 Razorshard:Fire
 Razorshard:Nature
-Revenants Blessing:Fire
 Revenants Blessing:Nature
-Rioters Retreat:Frost
-Rioters Retreat:Nature
-Rogan Kayle (promo):nil
-Santa Claus (promo):nil
 Satanael:Fire
 Satanael:Shadow
 Skycatcher:Frost
 Skycatcher:Nature
-Slaver:Shadow
 Soulhunter:Frost
 Soulhunter:Shadow
-Stone Shell:Nature
-Stranglehold:Nature
-Stranglehold:Shadow
-Sun Reaver:Fire
-Sun Reaver:Nature
-Sunken Temple:Nature
-Sunken Temple:Shadow
-Sylvan Gate:Frost
 Sylvan Gate:Fire
-The Incredible Mo:nil
 Thunder Wagon:Fire
 Thunder Wagon:Shadow
 Treefiend:Nature
-Treefiend:Shadow
 Treespirit:Nature
-Twilight Bombard:Fire
 Twilight Brute:Fire
-Twilight Brute:Nature
 Twilight Creeper:Fire
 Twilight Curse:Fire
-Twilight Curse:Shadow
-Twilight Hag:Nature
-Twilight Minions:Fire
 Twilight Pestilence:Nature
 Twilight Warfare:Fire
 Vileblood:Nature
-Viridya (promo):nil
 Volcano:Fire
 Volcano:Nature
-Wardens Sigil:Frost
-Wardens Sigil:Nature
-Warlock:Frost
-Warlock:Fire
-Warriors Death:Frost
-Warriors Death:Fire
 Willzapper:Fire
-Willzapper:Shadow
 Wintertide:Frost
 Wintertide:Fire
