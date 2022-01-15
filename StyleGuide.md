@@ -21,13 +21,13 @@ This map is used for fluid Textures. Only the areas that aren't black are colore
 - Example:  
 ![Parameter Map 2](https://raw.githubusercontent.com/Maxxxel/SkylordsReborn/master/tutorial/images/Parameter%20Map%202.png)
 ### Environment Map ###
+This map makes no sense at all. Dont care for this!
 ### Refraction Parameter Map ###
 This map is used for transparency effects.
 - Size: Usually low res (512 x 512), but there's no limit
 - Notes: If the map is all black, the material is transparent as well. See Examples for the effect with/without transparency. I dont know yet why there are 100% transparent ones included with some files, makes no sense.
 - Example:  
-![Refraction Map Default](https://i.gyazo.com/c0084f1555d54dac6d24da96f596291a.png)
-![Refcration Map Transparent](https://i.gyazo.com/c0084f1555d54dac6d24da96f596291a.png)
+<img src="https://i.gyazo.com/c0084f1555d54dac6d24da96f596291a.png" width="400"><img src="https://i.gyazo.com/c372552e42ed180e1e072d18a4c98eb6.png" width="423">
 ### Distortion Parameter Map ###
 ### Scratch Map ###
 This map is used for ...
