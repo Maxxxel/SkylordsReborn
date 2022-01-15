@@ -1,6 +1,8 @@
 # Style Guide for Battleforge Models #
 
 ## Texture Types ##
+- File Type: DDS (BC3 Linear, DXT5)
+- Are existing textures upscaleable? YES, but the resulting ingames are not as great as you may wish...
 
 ### Base Color Map ###
 This map is the basic UV used for the models texture.
@@ -26,7 +28,7 @@ This map makes no sense at all. Dont care for this!
 This map is used for transparency effects.
 - Size: Usually low res (512 x 512), but there's no limit
 - Notes: If the map is all black, the material is transparent as well. See Examples for the effect with/without transparency. I dont know yet why there are 100% transparent ones included with some files, makes no sense.
-- The Settings for this can be set within the Skylords Reborn Suite (see [Refractions InDepth](RefractionsInDepth.md)(
+- The Settings for this can be set within the Skylords Reborn Suite (see [Refractions InDepth](RefractionsInDepth.md))
 - Example:  
 <img src="https://i.gyazo.com/c0084f1555d54dac6d24da96f596291a.png" width="400"><img src="https://i.gyazo.com/c372552e42ed180e1e072d18a4c98eb6.png" width="423">
 ### Distortion Parameter Map ###
