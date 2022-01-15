@@ -32,6 +32,7 @@ This map is used for transparency effects.
 - Example:  
 <img src="https://i.gyazo.com/c0084f1555d54dac6d24da96f596291a.png" width="400"><img src="https://i.gyazo.com/c372552e42ed180e1e072d18a4c98eb6.png" width="423">
 ### Distortion Parameter Map ###
+This map is unused!
 ### Scratch Map ###
 Haven't found a usecase yet...
 ### Fluid Map ###
