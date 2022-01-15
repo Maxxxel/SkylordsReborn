@@ -5,7 +5,7 @@ This Tutorial describes how to add new Models to Skylords Reborn using the Skylo
 Static Models are an easy thing. You dont need to care for animations and such. You want to use this for props usually.
 1. Create or Import a Model in Blender.
 2. Import one of the provided base *.glb Models as size reference.
-3. Style it and add an UV Map (see [Style Guide](https://github.com/Maxxxel/SkylordsReborn/blob/master/StyleGuide.md)).
+3. Style it and add an UV Map (see [Style Guide](StyleGuide.md)).
 4. Remove the size reference model.
 5. Export as glb 2.0.
 6. Open the file in Skylords Reborn Suite and hit Export.
