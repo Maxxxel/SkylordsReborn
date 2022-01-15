@@ -33,6 +33,7 @@ This map is used for ...
 This map is used for animated textures, like flowing lava or water.
 - Size: Usually low res, but there's no limit
 - Notes: This doesen't need to apply to the whole texture. If this Map is small like the example underneath, it will be repeatedly placed in the areas marked by Parameter Map.
+- The Settings for this can be set within the Skylords Reborn Suite (see [Fluids InDepth](FluidsTutorial.md))
 - Example:  
 ![Fluid Map](https://raw.githubusercontent.com/Maxxxel/SkylordsReborn/master/tutorial/images/Fluid%20Map.png)
 - Result:  
