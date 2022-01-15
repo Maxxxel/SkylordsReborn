@@ -31,11 +31,7 @@ This map is used for transparency effects.
 <img src="https://i.gyazo.com/c0084f1555d54dac6d24da96f596291a.png" width="400"><img src="https://i.gyazo.com/c372552e42ed180e1e072d18a4c98eb6.png" width="423">
 ### Distortion Parameter Map ###
 ### Scratch Map ###
-This map is used for ...
-- Size: Usually low res (512 x 512), but there's no limit
-- Notes: I dont know yet what effect it has
-- Example:  
-![Scratch Map 1](https://raw.githubusercontent.com/Maxxxel/SkylordsReborn/master/tutorial/images/Scratch%20Map.png)
+Haven't found a usecase yet...
 ### Fluid Map ###
 This map is used for animated textures, like flowing lava or water.
 - Size: Usually low res, but there's no limit
