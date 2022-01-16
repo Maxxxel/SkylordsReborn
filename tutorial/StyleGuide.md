@@ -46,3 +46,30 @@ This map is used for animated textures, like flowing lava or water.
 <img src="https://i.gyazo.com/1e12c3a1be18b0956a7cb9d23f318436.gif" width="250">
 - Time for some Rainbow Candy:  
 <img src="https://github.com/Maxxxel/SkylordsReborn/raw/master/tutorial/images/34ac46779e4b50d6fd29e7b1879c3cb6.gif" width="400">
+## Texture Settings ##
+Every mesh in Battleforge has it's own settings for several styling parameters. E. g. smoothness, metalness, etc. They can be set in two ways. Either from the Skylords Reborn Suite or from within Blender (recommended). A list of these parameters and what they do follows now.
+### Refraction Color ###
+- Type: RGB
+- Default: (R: 0.0, G: 0.0, B: 0.0) ==> no refraction
+- The refraction Colors defines, what color the model refracts on lighting.
+- How to change in Blender: ...
+- Examples:  
+### Smoothness ###
+- Type: float
+- Default: 0 ==> rough Model
+- The smoothness factor describes how smooth a model appears. It should be set between 0 and 1.
+- How to change in Blender: ...
+- Examples:  
+### Metalness ###
+### Reflectivity ###
+### Emissivity ###
+### Refraction Scale ###
+### Distortion Mesh Scale ###
+### Scratch ###
+### Specular Scale ###
+### Wind Response ###
+### Wind Height ###
+### Depth Write Threshold ###
+### Level of Detail ###
+- Type: int
+- Default: 2 ==> Medium
