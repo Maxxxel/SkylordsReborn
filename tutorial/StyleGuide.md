@@ -66,7 +66,11 @@ Every mesh in Battleforge has it's own settings for several styling parameters. 
 ### Distortion Mesh Scale ###
 ### Scratch ###
 ### Specular Scale ###
-- Examples: left 1.0 vs. right 0.0  
+- Type: float
+- Default: 1.5 ==> a bit shiny
+- The specular scale adds some shininess to the model
+- How to change in Blender: unfortunately i haven't found a way yet. Means this value needs to be set with the Skylords Reborn Suite and tested ingame.
+- Examples: left 10.0 vs. right 0.0  
 <img src="https://i.gyazo.com/abf24e50339bbb1e344ba837e7293a5b.png" width=400><img src="https://i.gyazo.com/06273c8da433cfbc7cd80da79f02988e.png" width=369.5>  
 ### Wind Response ###
 ### Wind Height ###
