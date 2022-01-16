@@ -43,7 +43,8 @@ This map is used for animated textures, like flowing lava or water.
 - Result:  
 <img src="https://i.gyazo.com/1e12c3a1be18b0956a7cb9d23f318436.gif" width="250">
 - Time for some Rainbow Candy:  
-<img src="https://github.com/Maxxxel/SkylordsReborn/raw/master/tutorial/images/34ac46779e4b50d6fd29e7b1879c3cb6.gif" width="400">  
+<img src="https://github.com/Maxxxel/SkylordsReborn/raw/master/tutorial/images/34ac46779e4b50d6fd29e7b1879c3cb6.gif" width="400">
+
 ## Texture Settings ##
 Every mesh in Battleforge has it's own settings for several styling parameters. E. g. smoothness, metalness, etc. They can be set in two ways. Either from the Skylords Reborn Suite or from within Blender (recommended). A list of these parameters and what they do follows now.
 ### Refraction Color ###
