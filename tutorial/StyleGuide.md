@@ -1,4 +1,9 @@
 # Style Guide for Battleforge Models #
+## Blender Settings ##
+To make Blender models look like ingame models you need to change some settings within material properties (yes all zero) and world properties:  
+![Blender Settings](https://i.gyazo.com/13f01c51e194881fb50a3cc4bfd0147a.png)
+![World Settings](https://i.gyazo.com/9d67b83cd66816becd2c583ee31e04f7.png)  
+Furthermore i provide you a basic Lighting as .glb file you can add to see shadows and such (you dont need to remove it on export, it wont be imported anyway) ![Download]()
 ## Texture Types ##
 - File Type: DDS (BC3 Linear, DXT5)
 - Are existing textures upscaleable? YES, but the resulting ingames are not as great as you may wish...
