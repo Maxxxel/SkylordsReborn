@@ -10,7 +10,7 @@ Static Models are an easy thing. You dont need to care for animations and such. 
 5. Export as glb 2.0.
 6. Open the file in Skylords Reborn Suite and hit Export.
 7. Add the newly created *.drs file and the corresponding *.dds image files to the target folder.
-8. Be sure to add the new model to the *.cff.
+8. Be sure to add the new model to the *.cff file.
 
 ## Animated Models (Units) ##
 
